@@ -42,3 +42,11 @@
 .nav-items{
   list-style: none;
 }
+
+
+
+/* about style */
+.accordion-header{
+  color: white;
+  background-color: black;
+}
