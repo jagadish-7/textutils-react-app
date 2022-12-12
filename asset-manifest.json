@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/case-converters/static/css/main.0336dce3.css",
-    "main.js": "/case-converters/static/js/main.703f35b9.js",
-    "static/js/787.2be84fa0.chunk.js": "/case-converters/static/js/787.2be84fa0.chunk.js",
-    "index.html": "/case-converters/index.html",
-    "main.0336dce3.css.map": "/case-converters/static/css/main.0336dce3.css.map",
-    "main.703f35b9.js.map": "/case-converters/static/js/main.703f35b9.js.map",
-    "787.2be84fa0.chunk.js.map": "/case-converters/static/js/787.2be84fa0.chunk.js.map"
+    "main.css": "/my-app/static/css/main.0336dce3.css",
+    "main.js": "/my-app/static/js/main.bc927831.js",
+    "static/js/787.2be84fa0.chunk.js": "/my-app/static/js/787.2be84fa0.chunk.js",
+    "index.html": "/my-app/index.html",
+    "main.0336dce3.css.map": "/my-app/static/css/main.0336dce3.css.map",
+    "main.bc927831.js.map": "/my-app/static/js/main.bc927831.js.map",
+    "787.2be84fa0.chunk.js.map": "/my-app/static/js/787.2be84fa0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0336dce3.css",
-    "static/js/main.703f35b9.js"
+    "static/js/main.bc927831.js"
   ]
 }
